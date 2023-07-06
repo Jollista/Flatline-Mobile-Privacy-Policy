@@ -1,2 +1,4 @@
-# Flatline-Mobile-Privacy-Policy
-This is kinda stupid, and you know this and I know this but whatever, right?
+# How we use your data
+We don't collect any of your data or anything. Anything you put into Flatline is saved locally to a json file in your application documents directory.
+
+The entirety of the source code can be seen [here](https://github.com/Jollista/Flatline-Mobile)
